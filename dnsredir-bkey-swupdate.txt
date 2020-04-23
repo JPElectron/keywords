@@ -1,0 +1,14 @@
+swupmf.adobe.com
+update.adobe.com
+liveupdate.
+update.symantec.com
+officeupdate.com
+office.microsoft.com
+windowsupdate.com
+windowsupdate.microsoft.com
+update.microsoft.com
+genuine.microsoft.com
+download.microsoft.com
+wustat.windows.com
+wutrack.windows.com
+ntservicepack.microsoft.com

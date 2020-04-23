@@ -1,0 +1,13 @@
+adult.opendns.com
+block.opendns.com
+blocked-website.com
+guide.opendns.com
+id.opendns.com
+navigation.opendns.com
+nxdomain.opendns.com
+phish.opendns.com
+search.dnsadvantage.com
+searchguide.tds.net
+servfail.opendns.com
+website-unavailable.com
+ww11.charter.net

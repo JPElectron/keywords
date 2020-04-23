@@ -1,0 +1,10 @@
+^owa\.
+imap
+mail
+mx
+pop.
+pop3
+postmaster
+post-master
+smarthost
+smtp
