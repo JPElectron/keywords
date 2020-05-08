@@ -931,6 +931,7 @@
 ^(.*\.)?fixen\.com\.ar$
 ^(.*\.)?flash-games-online\.net$
 ^(.*\.)?flsweb\.org$
+^(.*\.)?flu\.cc$
 ^(.*\.)?fly-net\.ro$
 ^(.*\.)?fobos\.org\.ar$
 ^(.*\.)?fohra\.com$
@@ -1254,6 +1255,7 @@
 ^(.*\.)?ie\.tc$
 ^(.*\.)?iesa\.org\.il$
 ^(.*\.)?ig42\.org$
+^(.*\.)?igg\.biz$
 ^(.*\.)?igirl\.ru$
 ^(.*\.)?igliss\.com$
 ^(.*\.)?ignitesault\.ca$
@@ -1914,9 +1916,11 @@
 ^(.*\.)?ns(1|2|3)\.name$
 ^(.*\.)?ns0(1|2)\.(biz|info|us)$
 ^(.*\.)?ns360\.info$
+^(.*\.)?nsupdate\.info$
 ^(.*\.)?nsmp\.ru$
 ^(.*\.)?nswier\.edu\.au$
 ^(.*\.)?ntdll\.net$
+^(.*\.)?nut\.cc$
 ^(.*\.)?nuance-dent\.ru$
 ^(.*\.)?nucky\.org$
 ^(.*\.)?nukenin\.com$
