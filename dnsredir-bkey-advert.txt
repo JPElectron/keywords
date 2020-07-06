@@ -55,6 +55,7 @@
 ^(.*\.)?wz\.cz$
 ^(.*\.)?xa\.net$
 ^(.*\.)?ya\.com$
+^(.*\.)?nc0\.co$
 ^(.*\.)?zip\.net$
 ^(.*\.)?coom\.in$
 ^(.*\.)?erne\.co$
@@ -1322,6 +1323,7 @@ chol.com
 ck.co.th
 claea.it
 clb1.com
+clean.gg
 clickad.
 clk4.com
 clnks.co
@@ -2259,6 +2261,7 @@ znjc.net
 zomp.net
 zope.com
 zpool.ca
+zqtk.net
 ztgy.com
 zugo.com
 zwxq.com
@@ -3754,6 +3757,7 @@ itrxx.com
 its-4.com
 itshd.com
 itsth.com
+itsup.com
 iupot.com
 iusav.com
 ividi.org
@@ -4124,6 +4128,7 @@ mobyw.net
 mobyy.net
 mobyz.net
 mocro.net
+mopub.com
 moqsu.com
 moskva.kg
 move2.pro
@@ -4992,6 +4997,7 @@ ventu.org
 versus.uz
 vexuvsdi.
 vfdsa.com
+vfghc.com
 vfisa.com
 vfyte.com
 vgcuf.biz
@@ -6707,6 +6713,7 @@ bboftv.com
 bboocm.com
 bbpama.com
 bbthem.com
+bbwafx.com
 bbxcou.com
 bcjl1h.top
 bcoeoa.com
@@ -10285,6 +10292,7 @@ spymac.biz
 spypdf.com
 spyrix.com
 sqsigig.pw
+squren.com
 srcips.com
 srdrvp.com
 sricar.com
@@ -10380,7 +10388,6 @@ t.adk2.com
 t.flux.com
 t.teads.tv
 t.upajs.co
-t.zqtk.net
 t33999.com
 t4hvl4.bid
 t4jp3w.bid
@@ -13777,6 +13784,7 @@ hacks24.com
 hacksfb.com
 hacksgo.com
 hackteam.eu
+hadspms.com
 haga.com.ua
 hahaxd.info
 haha-yo.com
@@ -14355,6 +14363,7 @@ kmwhedu.net
 knacads.com
 knal.wut.re
 knucers.com
+kochava.com
 kocnowa.com
 koinpool.io
 kolll.co.vu
@@ -14923,6 +14932,7 @@ mydvpro.com
 mydwnld.com
 myebing.com
 myemoticons
+myfidevs.io
 myfiled.com
 my-find.com
 myfroth.biz
@@ -18735,6 +18745,7 @@ date1004.net
 dateclix.com
 dating-x.com
 datongbs.net
+datsgirl.com
 datskins.com
 daveryso.com
 dawlencea.cf
@@ -20719,6 +20730,7 @@ lbarch.co.za
 lb-floor.com
 lcbcad.co.uk
 lcstudio.org
+lcwfabt1.com
 ldiciuod.com
 ldtwpzew.org
 lead-123.com
@@ -22750,6 +22762,7 @@ solicall.com
 solopool.org
 solosnica.sk
 somebytes.de
+s-onetag.com
 songreen.com
 songsari.com
 songshow.net
@@ -25199,6 +25212,7 @@ bookhacks.com
 bookmarky.com
 bookstyle.com
 boom-drop.net
+boomtrain.com
 boonmower.com
 boostprep.com
 bootylook.com
@@ -25972,6 +25986,7 @@ deakin.edu.au
 dealcabby.com
 dealfancy.com
 dealkolld.top
+dealspotr.com
 dear.graphics
 deathtaxi.com
 debanhams.com
@@ -26525,6 +26540,7 @@ excer-fit.com
 exclinsxe.com
 exhalespa.com
 exitmoney.com
+exoticads.com
 exploit.or.kr
 explorads.com
 exposebox.com
@@ -28800,6 +28816,7 @@ myethgift.net
 myfbhacks.com
 myfiletop.com
 myfileyes.com
+myfinance.com
 myflatnet.com
 myforce.co.kr
 myglamur.info
@@ -31949,6 +31966,7 @@ zzvjaqnkq.bid
 0001.2waky.com
 000-search.net
 0418490819.com
+050y9lhe8p.com
 0512zufang.net
 087control.com
 0984access.com
@@ -32082,6 +32100,7 @@ zzvjaqnkq.bid
 58lianmeng.com
 5bir9vuqcq.com
 5db8d92zi2.com
+5pr1sfzsl9.com
 5starshare.com
 6258.tpctr.com
 629.kinion.com
@@ -32178,6 +32197,7 @@ aboal7roof.com
 aboukangaz.com
 aboutwebus.com
 abpcapital.com
+abrankings.com
 abra-pc.com.br
 abresst.org.br
 abscobooks.com
@@ -34082,6 +34102,7 @@ dxlabsuite.com
 dxxm-group.com
 dynamicplus.it
 dzedshuw.co.tv
+e1bl1t39c4.com
 e2.emediate.se
 e2b9jbowv7.com
 e2otoopcpr.top
@@ -35349,6 +35370,7 @@ hoteltoren.com
 hotplugins.com
 hotprofit.info
 hotrocketz.com
+hottracker.biz
 hottystars.com
 hot-webcam.org
 hotzonenow.com
@@ -35364,6 +35386,7 @@ hqnuvideoz.com
 hrsystemhz.com
 hsbcdocs.co.uk
 hscjmexico.org
+hsh51nvkrv.com
 hsiang4akai.eu
 hsse.kllkb.com
 hsuohkuegd.bid
@@ -39645,6 +39668,7 @@ yarigeidly.com
 yateefshop.com
 yatsdhqbwe.com
 yazhidaomc.com
+yb7a1bb6k1.com
 ybobvntcrub.pw
 ybspoverfo.bid
 yclady.free.fr
@@ -39724,6 +39748,7 @@ zeesuccess.com
 zeetacalls.com
 zerosurvey.net
 zerotraces.com
+zetaglobal.com
 zfemmorse.info
 zfubrpobdf.bid
 zggongshui.com
@@ -39837,6 +39862,7 @@ zzxfyrru.co.tv
 2000elevens.com
 2007-search.com
 2014newjava.com
+2020mustang.com
 2020testing.net
 2043kutahya.com
 20dailycoin.biz
@@ -41852,6 +41878,7 @@ ephpscripts.com
 epicbot2007.com
 epicgameads.com
 epitorrents.com
+eplayassets.com
 eprintplace.com
 e-prohacker.com
 eps-analyzer.de
@@ -42501,6 +42528,7 @@ go-zeropp-go.ga
 gpa-exports.com
 gpetrasporti.it
 gps-apple.store
+gpsecureads.com
 gptoleeekac.bid
 grabexpress.com
 grabmonster.com
@@ -43725,6 +43753,7 @@ mediaforyou.net
 mediahelper.org
 medialiving.biz
 mediaoffer.info
+mediapicker.com
 mediaplazza.com
 mediaprolab.com
 mediasity18.org
@@ -44111,6 +44140,7 @@ ncappworld.info
 ncsrenukoot.org
 ndekhahotel.com
 ndfbskfngsfg.ga
+ndreammin.space
 nearlyrealty.us
 nebula-team.com
 needforfile.net
@@ -46810,6 +46840,7 @@ zzzthxsyvbzk.cf
 3ddesign.kiev.ua
 3dsemulation.com
 3dsemulator.info
+3sk7d418al8u.com
 3wdev4pqfw1u.org
 4.program-iq.com
 400.qeqwamjn.com
@@ -46864,6 +46895,7 @@ zzzthxsyvbzk.cf
 8885.nds4ios.com
 888movestuff.com
 8d6fw1i3ot67.net
+8ozhygzz5eke.com
 8w41ojt0jaud.org
 9025.nds4ios.org
 910.qeqwamjn.com
@@ -46884,6 +46916,7 @@ a1k8h2xendd.info
 a1t9y1xendd.info
 a3designs.com.au
 a3jenhkmqwnl.com
+a4mt150303tl.com
 aaamathtests.net
 aaawebfinder.com
 aabisolution.com
@@ -46901,6 +46934,7 @@ abaselectric.com
 abbyspanties.com
 abc.element9.com
 abdav21.ddns.net
+abnormaticn.club
 aboniaamckdr.com
 aboutabook.co.kr
 abudhabifund.net
@@ -47352,6 +47386,7 @@ athomenetwork.hu
 athomewithiz.com
 attorneylove.com
 aturkantorku.com
+au79nt5wic4x.com
 auditforward.biz
 aufildesvins.com
 auh40nk2.4pu.com
@@ -48983,6 +49018,7 @@ esanedelnorte.cl
 eschenemnogo.com
 escolaemacao.com
 esecure-federal.
+esf397vsf1nk.com
 esgwceckxumg.com
 esinglewomen.com
 eslgydoqbedo.com
@@ -50609,6 +50645,7 @@ kfwpyyctzmpk.com
 kfzimhbhjdqa.com
 kgvgtudoridc.com
 kgzuerzjysxw.com
+khg97644rvbg.com
 khvkhvkhvkjv.biz
 kickasshacks.net
 kickballnurse.pw
@@ -51547,6 +51584,7 @@ mywebexpress.com
 myyveon.ddns.net
 mzkhhjueazkn.com
 n2ocompanies.com
+nah9v7mdppff.com
 nahvyfyfpffm.com
 naiadsystems.com
 nakednudemen.com
@@ -51664,6 +51702,7 @@ nguooqblyjrz.com
 nhadatbuonho.com
 nhbklvpswckx.com
 nheanvabodkw.com
+ni6cdwf6w5xr.com
 niamulbashir.com
 nice-mobiles.com
 nicesearches.com
@@ -51751,6 +51790,7 @@ ns1.e-lation.com
 ns2.e-lation.com
 nshun89qvgxa.com
 nspsjadugoda.com
+nta1vb6cdlrl.com
 ntndubuzxyfz.com
 ntnlawgchgds.com
 nuakvuwwyip.info
@@ -52064,6 +52104,7 @@ paypinfoservi.it
 payrfnvfofeq.com
 paysafecard.name
 pazktszqpdsu.bid
+pb5oqguywycj.com
 pbbutsvpzqza.com
 pbi.cardtrax.com
 pb-webdesign.net
@@ -53729,6 +53770,7 @@ tlnrlrsquvcx.bid
 tlpwwloqryzu.com
 tm.dfhyylc87.com
 tmcdirectory.com
+tme2wrwzz3wh.com
 tmexywfvjoei.com
 tmfkuesmlpto.com
 tmmpbkwnzilv.com
@@ -53938,6 +53980,7 @@ tyvtfohnwmpu.bid
 tyzfzrjaxxcg.com
 tz.jiguangie.com
 tzjngascinro.com
+u2htfd3bvwvl.com
 u7xjailbreak.com
 u9988.rently.com
 uaecarmarket.org
@@ -54224,6 +54267,7 @@ viyoezmpewb.info
 vizsvhgfkcli.com
 vjrpdagpjwyt.com
 vjzttumdetao.com
+vk77lnizckm6.com
 vkantatke.esy.es
 vkcdnservice.com
 vkcloadparch.com
@@ -54858,6 +54902,7 @@ zvttlvbclihk.com
 zvuespzsdgdq.com
 zwcuvwssfydj.com
 zwxfsqruqlim.com
+zxa4kxw2nvox.com
 zxadziqqayup.com
 zxavxgjcjmkh.com
 zxbjgrxbcgrp.com
@@ -55277,7 +55322,6 @@ aperfectlatte.com
 aperionetwork.com
 api.7segments.com
 api.access-mc.com
-api.boomtrain.com
 api.netflare.info
 api.reyval.com.mx
 api.trackuity.com
@@ -55850,9 +55894,7 @@ cd-eject-tool.com
 cdfyuyoyfxohj.bid
 cdinflatables.com
 cdinterior.com.sg
-cdn.boomtrain.com
 cdn.elasticad.net
-cdn.exoticads.com
 cdn.ip.inpwrd.com
 cdn.optimatic.com
 cdn.orbengine.com
@@ -56632,6 +56674,7 @@ entryforewarn.net
 e-nutzername.info
 envato-market.net
 envyjailbreak.com
+eomsey.dimurq.com
 e-paysafecard.com
 epeer1.nodeone.io
 epeer3.nodeone.io
@@ -56985,6 +57028,7 @@ freevidlogger.com
 freewarefiles.com
 freewiicodes.info
 freexboxlivee.com
+freshmarketer.com
 freshpiercing.com
 freshstatsnow.com
 fresh-weather.com
@@ -69880,6 +69924,7 @@ thaiticketmajor.com
 thamarbengkel.co.id
 thcsshoppingltd.com
 thebeautythesis.com
+thebestgame2020.com
 thebestofferyou.com
 theblackproject.net
 the-book-factor.com
@@ -71601,7 +71646,6 @@ evasi0n-download.com
 evasi0n-official.com
 evasionjailbreak.net
 eveningdifferent.net
-events.boomtrain.com
 everli-killz.website
 everydayissummer.com
 ex0dus-jailbreak.com
@@ -74828,7 +74872,6 @@ consumers-opinion.com
 contact-actionac.info
 contact-instagram.com
 contact-leohamel.info
-content.exoticads.com
 content-into-cash.com
 context2.adontext.com
 continuumdownload.com
@@ -76548,7 +76591,6 @@ seeblick-printing.com
 seed.agrolifecoin.org
 seed.moonxwitheos.com
 seekultimatestorm.com
-segment-data.zqtk.net
 seguros-brazil.online
 selariatripoli.com.br
 selcoelectrical.co.uk
@@ -87276,6 +87318,7 @@ liquidad.narrowcastmedia.com
 livingpositivelifestyles.com
 lklklkldkldkalsdklasdk.co.vu
 llbpropertiesinvestments.com
+loadswift-theoverlyfile.best
 login.live.com.alwanarts.com
 login-in.monster-hackers.com
 lonniewrightconstruction.net
