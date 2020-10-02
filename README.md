@@ -45,6 +45,7 @@ Blocked keyword files for DNS Redirector (or other DNS filters that use regex li
           ...hardware devices, calling software, management/voicemail sites.
  
 DNS Redirector software uses updater to select and retrieve these lists.
+See: https://github.com/JPElectron/DNSRedirOSSUpdater
  
 Other lists/categories, such as those provided by Shalla or URLBlacklist, can be merged and used by DNS Redirector (see FAQ 72)
 
