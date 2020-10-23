@@ -1792,6 +1792,7 @@
 ^(.*\.)?mycash\.com\.ar$
 ^(.*\.)?mydad\.info$
 ^(.*\.)?myddns\.com$
+^(.*\.)?myfirewall\.org$
 ^(.*\.)?myftp\.(biz|info|name|org)$
 ^(.*\.)?myftpsite\.net$
 ^(.*\.)?mygamesite\.net$
