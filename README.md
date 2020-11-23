@@ -1,4 +1,4 @@
-# keywords
+# DNS Redirector Keywords Files
 
 Blocked keyword files for DNS Redirector (or other DNS filters that use regex lists)
 
@@ -44,9 +44,23 @@ Blocked keyword files for DNS Redirector (or other DNS filters that use regex li
  - VoIP
           ...hardware devices, calling software, management/voicemail sites.
  
-DNS Redirector software uses updater to select and retrieve these lists.
-See: https://github.com/JPElectron/DNSRedirOSSUpdater
- 
 Other lists/categories, such as those provided by Shalla or URLBlacklist, can be merged and used by DNS Redirector (see FAQ 72)
 
-[END of Readme]
+
+## License
+
+GPL does not allow you to link GPL-licensed components with other proprietary software (unless you publish as GPL too).
+
+GPL does not allow you to modify the GPL code and make the changes proprietary, so you cannot use GPL code in your non-GPL projects.
+
+If you wish to integrate this software into your commercial software package, or you are a corporate entity with more than 10 employees, then you should obtain a per-instance license, or a site-wide license, from http://jpelectron.com/buy
+
+
+## Related repositories
+
+https://github.com/JPElectron/DNSRedirOSS
+
+https://github.com/JPElectron/DNSRedirOSSUpdater
+
+
+[End of Line]
